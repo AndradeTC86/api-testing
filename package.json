@@ -1,5 +1,5 @@
 {
-  "name": "sample-supertest-api-testing",
+  "name": "api-testing",
   "version": "1.0.0",
   "description": "Testes de API com Supertest",
   "main": "index.js",
