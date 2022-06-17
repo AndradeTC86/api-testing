@@ -1,4 +1,4 @@
-# api-testing
+# API Testing
 
 # Automation Test API with SuperTest
 
