@@ -22,7 +22,6 @@ The goal of this repository is to be easy to understand focused on developing au
 |--- test
 |--- utils
 |--- .env
-|--- .env.sample
 |--- jest_html_reporters.html
 |--- jest.config.json
 |--- jsconfig.json
